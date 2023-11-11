@@ -1,0 +1,4 @@
+name: R2AttUNet
+bilinear: false
+scale_factor: 2
+dropout: 0.2
